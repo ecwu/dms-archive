@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<title>「教程」视频后期实现超 8 毫米胶片效果</title>
+	
+	<meta name="description" content="">
+	<meta name="image" content="">
+	
+	<meta itemprop="name" content="「教程」视频后期实现超 8 毫米胶片效果">
+	<meta itemprop="description" content="">
+	<meta itemprop="image" content="">
+	
+	<meta name="og:title" content="「教程」视频后期实现超 8 毫米胶片效果">
+	<meta name="og:description" content="">
+	
+	<meta name="og:url" content="https://ecwu.github.io/dms-archive/posts/%E6%95%99%E7%A8%8B%E8%A7%86%E9%A2%91%E5%90%8E%E6%9C%9F%E5%AE%9E%E7%8E%B0%E8%B6%85-8-%E6%AF%AB%E7%B1%B3%E8%83%B6%E7%89%87%E6%95%88%E6%9E%9C/">
+	<meta name="og:site_name" content="「教程」视频后期实现超 8 毫米胶片效果">
+	<meta name="og:type" content="article">
+	
+	<meta name="article:tag" content="wechat ">
+	<link rel="stylesheet" type="text/css" href="https://ecwu.github.io/dms-archive/css/style.css">
+	
+	
+</head>
+
+<body>
+
+<header>
+	
+	<a href="https://ecwu.github.io/dms-archive/" style="float: left;color:#ff3b30;">Digital Marks Studio Archive</a>
+	
+	&nbsp;&nbsp;<a href="https://ecwu.github.io/dms-archive/archives/" style="color:#777;">Timeline</a>&nbsp;&nbsp;<a href="https://ecwu.github.io/dms-archive/about/" style="color:#777;">About</a>
+	
+	<a href="https://ecwu.github.io/dms-archive/posts/index.xml" style="color:#777;float: right;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a>
+</header>
+
+
+<div class="content">
+  <h1>「教程」视频后期实现超 8 毫米胶片效果</h1>
+  <aside><a href="/dms-archive/tags/wechat/">wechat</a></a>&nbsp;&nbsp;&nbsp;</aside>
+  <p><blockquote>
+<p>已经好久没有来写推送了，今天给大家带来一篇教程，提供一种在视频后期中实现超 8 毫米胶片效果的思路。</p>
+
+<p>原文地址：<a href="https://mp.weixin.qq.com/s/4JR0bONdt-bM2zwcKNjsDQ">https://mp.weixin.qq.com/s/4JR0bONdt-bM2zwcKNjsDQ</a></p>
+
+<p>抱歉！我们来晚了。</p>
+</blockquote>
+
+<p>简介</p>
+
+<p>Kodak Kodachrome 40, Type A 超 8 毫米胶片盒 Credit: Dnalor 01 @ Wikimedia Commons</p>
+
+<p>超 8 毫米胶片 (Super 8mm film) 是 8 毫米胶片的改良版，由柯达在1965年推出。这种胶片在 8 毫米胶片的基础上增大了感光区域的面积，修改了用于记录声音的氧化物条的位置，优化了清晰度。这些众多的特性加上相对低廉的价格，Super 8mm 胶片常被用于家庭录像领域。</p>
+
+<p>自从数字摄影机出现后，Super 8mm 胶片相机的用户就越来越少。但是因为Super 8mm 胶片画面特别的质感，仍然有很多人用 Super 8mm 胶片相机进行拍摄和创作。柯达还在去年 CES 国际消费类电子产品展览会上发布了全新的 Super 8mm 胶片相机，这一举动也让 Super 8mm 胶片重回大众视野。</p>
+
+<p>Kodak Super 8 camera Credit: Kodak</p>
+
+<p>分析</p>
+
+<p>想要用数字的方式重现胶片的效果，首先应该去分析胶片呈现出的效果，我们可以找一些使用 Super 8mm 胶片拍摄的胶片和视频进行分析。</p>
+
+<p>Credit: Craig Richards</p>
+
+<p>直接观感上：
+画面比例是4:3的
+画面锐度不高，细节缺失
+胶片上有较多的划痕和灰尘
+有漏光
+有比较严重的噪点
+色彩整体偏冷</p>
+
+<p>我们再在到PhotoShop中查看这张照片的直方图：
+相片对比度比较高
+高光会过曝，阴影会欠曝
+相片整体偏蓝偏绿，有的相片也会偏品红</p>
+
+<p>制作</p>
+
+<p>我们完成了分析以后，就对该如何处理素材有了一个大概的想法。然后就可以尝试在非编软件（Adobe Premiere Pro CC 2017）中实现。</p>
+
+<p>第一步是新建序列。
+画幅：胶片画面的比例是4:3的，有两种实现方法：新建4:3比例的序列或是新建16:9比例的序列再添加遮幅。我用的是直接建立4:3比例序列的方法（1440*1080的帧大小）。
+帧速率：Super 8mm 胶片拍摄出的视频，大多是18fps或24fps的，新建序列时也要注意。
+分辨率：Super 8mm 胶片拍出的视频虽然锐度低，但是并不是通过降低分辨率实现的。正确的实现方法是新建和原素材分辨率一样的序列，后期使用高斯模糊效果降低锐度。
+当导入序列后我们要对素材添加一些效果：
+高斯模糊（Gaussian Blur）：用这个效果可以实现低清晰度的效果。个人测试以后感觉调整到7.0左右比较合适，这个数值要根据素材清晰度来决定，4K素材可能需要适当上调。
+噪点（Noise）：Premiere中有两种噪点可以选择，我添加的是15%的黑白噪点，这样视频的观感会比使用彩色噪点的好一些。</p>
+
+<p>Lumetri 调色：在这一步我们就要通过我们观察的结果来进行风格化调色。在一级调色中我们分别降低色温和阴影，提高亮度、高光、对比度。略微降低饱和度。在二级调色中我们添加胶片淡去效果，降低锐度，让阴影偏蓝，高光偏品红。这时你会发现背景人衣服上蓝色和黄色有点过饱和，可以适当调节这两个颜色的对比度（根据实际情况调整）。调色的过程可能因为拍摄设备的不同，当时拍摄场景的不同，会有差异。</p>
+
+<p>划痕和漏光效果：这个是通过带Alpha透明通道的划痕素材实现的，素材大多都可以在互联网上找到，使用时直接叠加在视频上层即可。（搜索关键词：划痕 alpha 素材）</p>
+
+<p>音乐和声音：声音是视频中很重要的一部分，配乐上建议选用比较舒缓的音乐（比较有年代感）。为了给观众营造观看Super 8mm 胶片的感觉，可以寻找 Super 8mm 放映机的音效穿插在视频的背景中（音效可以到<a href="https://www.freesound.org/">https://www.freesound.org/</a> 查找，关键词：Super 8mm）。</p>
+
+<p>总结</p>
+
+<p>当你完成剪辑、配乐、拟声，对各个素材进行上面提到的处理后，一个有复古风超 8 毫米胶片效果的视频就完成了。其实很多视频效果用上面提到的先分析再尝试实现的方法都能很好的重现，当然更重要的是多看多尝试。希望这次教程对大家以后的剪辑有帮助，祝大家玩的开心。</p>
+</p>
+</div>
+
+
+  <p>Written on May 24, 2017.</p>
+
+
+<footer>
+	<p>&copy; 2018 All rights reserved.</p>
+</footer>
+</body>
+</html>

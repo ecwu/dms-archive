@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Digital Marks Studio Archive</title>
+    <link>https://ecwu.github.io/dms-archive/posts/</link>
+    <description>Recent content in Posts on Digital Marks Studio Archive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Dec 2018 00:00:00 +0800</lastBuildDate>
+    
+        <atom:link href="https://ecwu.github.io/dms-archive/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Update 2018.12.31</title>
+      <link>https://ecwu.github.io/dms-archive/posts/update-2018.12.31/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/posts/update-2018.12.31/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;我们已经 576 天没有更新了。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>游戏实况第 3 期 看门狗 2 认真地打任务？</title>
+      <link>https://ecwu.github.io/dms-archive/posts/%E6%B8%B8%E6%88%8F%E5%AE%9E%E5%86%B5%E7%AC%AC-3-%E6%9C%9F-%E7%9C%8B%E9%97%A8%E7%8B%97-2-%E8%AE%A4%E7%9C%9F%E5%9C%B0%E6%89%93%E4%BB%BB%E5%8A%A1/</link>
+      <pubDate>Sun, 04 Jun 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/posts/%E6%B8%B8%E6%88%8F%E5%AE%9E%E5%86%B5%E7%AC%AC-3-%E6%9C%9F-%E7%9C%8B%E9%97%A8%E7%8B%97-2-%E8%AE%A4%E7%9C%9F%E5%9C%B0%E6%89%93%E4%BB%BB%E5%8A%A1/</guid>
+      <description>&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=11070446&amp;cid=18320787&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Once that Surfaced</title>
+      <link>https://ecwu.github.io/dms-archive/posts/once-that-surfaced/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/posts/once-that-surfaced/</guid>
+      <description>&lt;iframe frameborder=&#34;0&#34; src=&#34;https://v.qq.com/txp/iframe/player.html?vid=w0506wu52ua&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>「教程」视频后期实现超 8 毫米胶片效果</title>
+      <link>https://ecwu.github.io/dms-archive/posts/%E6%95%99%E7%A8%8B%E8%A7%86%E9%A2%91%E5%90%8E%E6%9C%9F%E5%AE%9E%E7%8E%B0%E8%B6%85-8-%E6%AF%AB%E7%B1%B3%E8%83%B6%E7%89%87%E6%95%88%E6%9E%9C/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/posts/%E6%95%99%E7%A8%8B%E8%A7%86%E9%A2%91%E5%90%8E%E6%9C%9F%E5%AE%9E%E7%8E%B0%E8%B6%85-8-%E6%AF%AB%E7%B1%B3%E8%83%B6%E7%89%87%E6%95%88%E6%9E%9C/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;已经好久没有来写推送了，今天给大家带来一篇教程，提供一种在视频后期中实现超 8 毫米胶片效果的思路。&lt;/p&gt;
+
+&lt;p&gt;原文地址：&lt;a href=&#34;https://mp.weixin.qq.com/s/4JR0bONdt-bM2zwcKNjsDQ&#34;&gt;https://mp.weixin.qq.com/s/4JR0bONdt-bM2zwcKNjsDQ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;抱歉！我们来晚了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;简介&lt;/p&gt;
+
+&lt;p&gt;Kodak Kodachrome 40, Type A 超 8 毫米胶片盒 Credit: Dnalor 01 @ Wikimedia Commons&lt;/p&gt;
+
+&lt;p&gt;超 8 毫米胶片 (Super 8mm film) 是 8 毫米胶片的改良版，由柯达在1965年推出。这种胶片在 8 毫米胶片的基础上增大了感光区域的面积，修改了用于记录声音的氧化物条的位置，优化了清晰度。这些众多的特性加上相对低廉的价格，Super 8mm 胶片常被用于家庭录像领域。&lt;/p&gt;
+
+&lt;p&gt;自从数字摄影机出现后，Super 8mm 胶片相机的用户就越来越少。但是因为Super 8mm 胶片画面特别的质感，仍然有很多人用 Super 8mm 胶片相机进行拍摄和创作。柯达还在去年 CES 国际消费类电子产品展览会上发布了全新的 Super 8mm 胶片相机，这一举动也让 Super 8mm 胶片重回大众视野。&lt;/p&gt;
+
+&lt;p&gt;Kodak Super 8 camera Credit: Kodak&lt;/p&gt;
+
+&lt;p&gt;分析&lt;/p&gt;
+
+&lt;p&gt;想要用数字的方式重现胶片的效果，首先应该去分析胶片呈现出的效果，我们可以找一些使用 Super 8mm 胶片拍摄的胶片和视频进行分析。&lt;/p&gt;
+
+&lt;p&gt;Credit: Craig Richards&lt;/p&gt;
+
+&lt;p&gt;直接观感上：
+画面比例是4:3的
+画面锐度不高，细节缺失
+胶片上有较多的划痕和灰尘
+有漏光
+有比较严重的噪点
+色彩整体偏冷&lt;/p&gt;
+
+&lt;p&gt;我们再在到PhotoShop中查看这张照片的直方图：
+相片对比度比较高
+高光会过曝，阴影会欠曝
+相片整体偏蓝偏绿，有的相片也会偏品红&lt;/p&gt;
+
+&lt;p&gt;制作&lt;/p&gt;
+
+&lt;p&gt;我们完成了分析以后，就对该如何处理素材有了一个大概的想法。然后就可以尝试在非编软件（Adobe Premiere Pro CC 2017）中实现。&lt;/p&gt;
+
+&lt;p&gt;第一步是新建序列。
+画幅：胶片画面的比例是4:3的，有两种实现方法：新建4:3比例的序列或是新建16:9比例的序列再添加遮幅。我用的是直接建立4:3比例序列的方法（1440*1080的帧大小）。
+帧速率：Super 8mm 胶片拍摄出的视频，大多是18fps或24fps的，新建序列时也要注意。
+分辨率：Super 8mm 胶片拍出的视频虽然锐度低，但是并不是通过降低分辨率实现的。正确的实现方法是新建和原素材分辨率一样的序列，后期使用高斯模糊效果降低锐度。
+当导入序列后我们要对素材添加一些效果：
+高斯模糊（Gaussian Blur）：用这个效果可以实现低清晰度的效果。个人测试以后感觉调整到7.0左右比较合适，这个数值要根据素材清晰度来决定，4K素材可能需要适当上调。
+噪点（Noise）：Premiere中有两种噪点可以选择，我添加的是15%的黑白噪点，这样视频的观感会比使用彩色噪点的好一些。&lt;/p&gt;
+
+&lt;p&gt;Lumetri 调色：在这一步我们就要通过我们观察的结果来进行风格化调色。在一级调色中我们分别降低色温和阴影，提高亮度、高光、对比度。略微降低饱和度。在二级调色中我们添加胶片淡去效果，降低锐度，让阴影偏蓝，高光偏品红。这时你会发现背景人衣服上蓝色和黄色有点过饱和，可以适当调节这两个颜色的对比度（根据实际情况调整）。调色的过程可能因为拍摄设备的不同，当时拍摄场景的不同，会有差异。&lt;/p&gt;
+
+&lt;p&gt;划痕和漏光效果：这个是通过带Alpha透明通道的划痕素材实现的，素材大多都可以在互联网上找到，使用时直接叠加在视频上层即可。（搜索关键词：划痕 alpha 素材）&lt;/p&gt;
+
+&lt;p&gt;音乐和声音：声音是视频中很重要的一部分，配乐上建议选用比较舒缓的音乐（比较有年代感）。为了给观众营造观看Super 8mm 胶片的感觉，可以寻找 Super 8mm 放映机的音效穿插在视频的背景中（音效可以到&lt;a href=&#34;https://www.freesound.org/&#34;&gt;https://www.freesound.org/&lt;/a&gt; 查找，关键词：Super 8mm）。&lt;/p&gt;
+
+&lt;p&gt;总结&lt;/p&gt;
+
+&lt;p&gt;当你完成剪辑、配乐、拟声，对各个素材进行上面提到的处理后，一个有复古风超 8 毫米胶片效果的视频就完成了。其实很多视频效果用上面提到的先分析再尝试实现的方法都能很好的重现，当然更重要的是多看多尝试。希望这次教程对大家以后的剪辑有帮助，祝大家玩的开心。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DMS 游戏实况第二期 | 掏枪吧</title>
+      <link>https://ecwu.github.io/dms-archive/posts/dms-%E6%B8%B8%E6%88%8F%E5%AE%9E%E5%86%B5%E7%AC%AC%E4%BA%8C%E6%9C%9F-%E6%8E%8F%E6%9E%AA%E5%90%A7/</link>
+      <pubDate>Wed, 08 Feb 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/posts/dms-%E6%B8%B8%E6%88%8F%E5%AE%9E%E5%86%B5%E7%AC%AC%E4%BA%8C%E6%9C%9F-%E6%8E%8F%E6%9E%AA%E5%90%A7/</guid>
+      <description>&lt;iframe frameborder=&#34;0&#34; src=&#34;https://v.qq.com/txp/iframe/player.html?vid=a0373m8pzk5&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2017 年 1 月热映院线混剪</title>
+      <link>https://ecwu.github.io/dms-archive/posts/2017-%E5%B9%B4-1-%E6%9C%88%E7%83%AD%E6%98%A0%E9%99%A2%E7%BA%BF%E6%B7%B7%E5%89%AA/</link>
+      <pubDate>Sun, 29 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/posts/2017-%E5%B9%B4-1-%E6%9C%88%E7%83%AD%E6%98%A0%E9%99%A2%E7%BA%BF%E6%B7%B7%E5%89%AA/</guid>
+      <description>&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=8286582&amp;cid=13633475&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016 of DMS</title>
+      <link>https://ecwu.github.io/dms-archive/posts/2016-of-dms/</link>
+      <pubDate>Fri, 27 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/posts/2016-of-dms/</guid>
+      <description>&lt;iframe frameborder=&#34;0&#34; src=&#34;https://v.qq.com/txp/iframe/player.html?vid=j0370xnr12r&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;2016年是什么，相信每一个人都有他自己的答案。&lt;/p&gt;
+
+&lt;p&gt;今年是我们经历的高考年：在题海中奋斗是为了高中生向大学生的转变。这一场考试，让很多学生第一次离开自己的家乡到外地上学……
+今年也让我们有更多的机会来尝试更多有意思的东西，能与更多的人来分享我们的故事。
+就在农历猴年的最后一天，让我们一起来回顾DMS的2016。&lt;/p&gt;
+
+&lt;p&gt;2016年作品列表：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ChimeLong Ocean Kingdom REVIEW&lt;/li&gt;
+&lt;li&gt;16届亚铁高考冲刺动员演讲&lt;/li&gt;
+&lt;li&gt;16届亚铁毕业典礼演讲系列&lt;/li&gt;
+&lt;li&gt;赵雄玉老师毕业典礼致辞&lt;/li&gt;
+&lt;li&gt;萧晓彤同学毕业典礼讲话&lt;/li&gt;
+&lt;li&gt;DMS LIVE | 亚铁军训直播&lt;/li&gt;
+&lt;li&gt;2016年6月热映院线混剪&lt;/li&gt;
+&lt;li&gt;2016年7月热映院线混剪&lt;/li&gt;
+&lt;li&gt;2016年8月热映院线混剪&lt;/li&gt;
+&lt;li&gt;16届亚铁铁英班小聚随剪&lt;/li&gt;
+&lt;li&gt;DMS游戏实况第一期&lt;/li&gt;
+&lt;li&gt;2016年9月热映院线混剪&lt;/li&gt;
+&lt;li&gt;2016年11月热映院线混剪&lt;/li&gt;
+&lt;li&gt;DMS一周年纪念&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016 年 11 月热映院线混剪</title>
+      <link>https://ecwu.github.io/dms-archive/posts/2016-%E5%B9%B4-11-%E6%9C%88%E7%83%AD%E6%98%A0%E9%99%A2%E7%BA%BF%E6%B7%B7%E5%89%AA/</link>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/posts/2016-%E5%B9%B4-11-%E6%9C%88%E7%83%AD%E6%98%A0%E9%99%A2%E7%BA%BF%E6%B7%B7%E5%89%AA/</guid>
+      <description>&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=7326188&amp;cid=11976145&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>三年历程，快速回顾。</title>
+      <link>https://ecwu.github.io/dms-archive/posts/%E4%B8%89%E5%B9%B4%E5%8E%86%E7%A8%8B%E5%BF%AB%E9%80%9F%E5%9B%9E%E9%A1%BE/</link>
+      <pubDate>Sun, 30 Oct 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/posts/%E4%B8%89%E5%B9%B4%E5%8E%86%E7%A8%8B%E5%BF%AB%E9%80%9F%E5%9B%9E%E9%A1%BE/</guid>
+      <description>
+
+&lt;p&gt;体育节快速回顾到今年就已经是第三年了，不敢说成为了亚铁的传统，但是很高兴能看到有人能继续这项“事业”。今天，就在2016年体育节快速回顾3.0发布之际，我们这三年的主创成员一起聊聊体育节快速回顾。&lt;/p&gt;
+
+&lt;h1 id=&#34;1-0&#34;&gt;1.0&lt;/h1&gt;
+
+&lt;p&gt;2014年10月，当时亚铁新传媒的主要任务还是拍摄校园生活并制作校园新闻，所以一直到校运会开始前，我们都没有产生过要制作一个快速的回顾的想法。直到我们发现了一些其他学校学生制作的运动会回顾作品，于是我们也进行了拍摄快速回顾的准备。&lt;/p&gt;
+
+&lt;p&gt;亚铁新传媒的摄影师，除少数去带新成员熟悉器材、制作流程，剩下的都加入了这个项目，我们使用了多台单反（6D/600D/700D）、Sony高清摄像机（EX1R/EX330）外加一台专业无人机DJI S800配合一台带有稳定云台的微单™。单反的素材有漂亮的色彩，配合不同的镜头可以完成不同的需求；高清摄像机的镜头足够的可靠，虽然受码率和感光原件的限制，调色空间有限；航拍也是在14年才刚刚火起来的，可以说是一个稀罕的东西，航拍的镜头给作品提供了有趣独特的视角。收音时使用了一台Sony D50录音笔，我们用它记录环境声音以便后期可以使用。配件有三脚架、斯坦尼康等，是为了提供稳定可用的镜头。&lt;/p&gt;
+
+&lt;p&gt;经过两天的拍摄，到最后的素材有80Gb左右。我们预先将素材根据情景进行了分类，以便后续的剪辑。选定了音乐Run boy run，根据音乐的节奏来划分了区域。这些都做完以后我们开始了剪辑。视频项目设定在1920*800 24P，在Premiere中完成了精剪和混音，剪辑是直接根据音乐的节奏调整的，画面也是匹配音乐中的情绪，细心微调直到得到我想要的基调和节奏。然后导出TIFF格式的照片导入SpeedGrade调色，这里的难点是不同相机之间色彩的匹配，但实际因为经验不足，并没有达到很好的效果。最后将素材导出渲染成MP4(H.264)的文件。&lt;/p&gt;
+
+&lt;p&gt;就是这一次，开启了快速回顾、预告片的不归路。为后世留下了万恶之源。&lt;/p&gt;
+
+&lt;h1 id=&#34;2-0&#34;&gt;2.0&lt;/h1&gt;
+
+&lt;p&gt;2015年10月，当时正值道标工作室成立前夕，14年快速回顾同一批人又开始了2015年体育节快速回顾的筹划。这一年在体育节开始前先是制作了“Transcend”这部令人振奋的作品，以作导火索，所有制作成员因有了上一年的经验，都磨拳檫掌跃跃欲试。&lt;/p&gt;
+
+&lt;p&gt;实际上，我们为15年体育节快速回顾所选择的这首出自Overwerk之手的电音&amp;rdquo;Daybreak&amp;rdquo;，是一首极难演绎的曲目，其中音调的起承转合、情绪的递进、过度和爆发，都需要特定专门设置的镜头来支撑。为了面对这项挑战，我们甚至提前制作了分镜稿。所以这次的摄制，实际上是更具目的化的。&lt;/p&gt;
+
+&lt;p&gt;不得不提的是，除了使用了电影摄影机Canon EOS C100外，新器材GoPro Hero 4 Black和手持稳定器（ZhiYun Evolution 1）的引入，让我们在镜头表达上有了更多的可能，不难发现，在这次的快速回顾中多了许多在高速运动下的跟随镜头。同时，当时的新款——更加轻便的航拍机Phantom2和Phantom 3也为我们带来了精彩的空中视角。这一次我们进行了细致的素材整理，将比上一次数十倍的量——多达700Gb的素材进行了筛选和整理后，便开始进入了后期工作。&lt;/p&gt;
+
+&lt;p&gt;这次调色使用到了Adobe Premiere Pro CC 2015内置的调色功能，配合上在前期准备中寻找到的3D－LUT，让我们能在比较短的时间内达到了比较理想的效果。混音处理时单独分离到Adobe Audition中进行，将素材与音乐以情绪为轴步步填充，最终得到了我们现在做看到的快速回顾2.0，我们甚至还在结尾加上了一个简短的制作特辑。&lt;/p&gt;
+
+&lt;p&gt;快速回顾2.0可以说是DMS在亚铁的收官之作，也许就是这时开始，亚铁人开始记住了每次运动会后的快速回顾。&lt;/p&gt;
+
+&lt;h1 id=&#34;3-0&#34;&gt;3.0&lt;/h1&gt;
+
+&lt;p&gt;2016年10月，体育节快速回顾这个项目已经潜移默化地成为了亚铁的传统。我们，来自前社联的无人机老司机Frank、来自前新传媒的Ares、来自前主席团的Doge匡，一群前学生会的老干部一拍即合，义无反顾的要搞一波大新闻，一支简单的拍摄队伍就这么组成了，3.0的项目也就随之启动了。&lt;/p&gt;
+
+&lt;p&gt;梦想很美好，现实很残酷，3.0在摄制、剪辑过程出现了各种各样的问题。首先，相较于1.0和2.0，3.0的拍摄工具十分简陋——只有DJI OSMO+、DJI Phantom 3 Professional、Canon 500D。其中，DJI OSMO+ 承担了主要的摄制任务，DJI Phantom 3 Professional负责提供独特的视角，Canon 500D则只能作为拍照工具。正因如此，摄制角度较为单一。其次，在摄制方面，由于学校的限制，在这拍摄的过程，也不如前两个版本自由，许多要贴近运动员的镜头都没办法拍摄。再者，由于摄制组的脑洞大开，以各种奇怪的角度进行摄制，素材质量参差不齐，迎来了负责剪辑Frank的无尽抱怨。&lt;/p&gt;
+
+&lt;p&gt;3.0就在这磕磕碰碰下完成了，出人意料的是，在发布初期视频就获得了1700余次点击，这让我们非常兴奋。但是心情却又有点伤感：这是我们在亚铁完成的最后一个视频，也许并不完美，但是饱含我们的诚意。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;亚铁的跑道上，没有你奔跑的背影，也会有你走过的脚印。三年的体育节快速回顾，给我们留下了很多的回忆；而未来的故事，让我们一同书写。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>体育节快速回顾3.0</title>
+      <link>https://ecwu.github.io/dms-archive/posts/%E4%BD%93%E8%82%B2%E8%8A%82%E5%BF%AB%E9%80%9F%E5%9B%9E%E9%A1%BE3.0/</link>
+      <pubDate>Sun, 30 Oct 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/posts/%E4%BD%93%E8%82%B2%E8%8A%82%E5%BF%AB%E9%80%9F%E5%9B%9E%E9%A1%BE3.0/</guid>
+      <description>&lt;iframe frameborder=&#34;0&#34; src=&#34;https://v.qq.com/txp/iframe/player.html?vid=l0341k8untl&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;视频制作：FSAU STUDIO&lt;/p&gt;
+
+&lt;p&gt;亚铁社联（FSAU）前身为亚铁社团部，由理事会、执行部、外交部、技术部四个部门，以及一个顾问组和所有社团共同组成。多年来一直专注于推动亚铁各社团的发展，为保障社团的最大利益而不断努力&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016 年九月热映院线混剪</title>
+      <link>https://ecwu.github.io/dms-archive/posts/2016-%E5%B9%B4%E4%B9%9D%E6%9C%88%E7%83%AD%E6%98%A0%E9%99%A2%E7%BA%BF%E6%B7%B7%E5%89%AA/</link>
+      <pubDate>Sun, 23 Oct 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/posts/2016-%E5%B9%B4%E4%B9%9D%E6%9C%88%E7%83%AD%E6%98%A0%E9%99%A2%E7%BA%BF%E6%B7%B7%E5%89%AA/</guid>
+      <description>&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=6800272&amp;cid=11074370&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016 年八月热映院线混剪</title>
+      <link>https://ecwu.github.io/dms-archive/posts/2016-%E5%B9%B4%E5%85%AB%E6%9C%88%E7%83%AD%E6%98%A0%E9%99%A2%E7%BA%BF%E6%B7%B7%E5%89%AA/</link>
+      <pubDate>Thu, 25 Aug 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/posts/2016-%E5%B9%B4%E5%85%AB%E6%9C%88%E7%83%AD%E6%98%A0%E9%99%A2%E7%BA%BF%E6%B7%B7%E5%89%AA/</guid>
+      <description>&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=5998592&amp;cid=9738073&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>游戏实况第一期 Gang Beasts！蓝猫特别强？</title>
+      <link>https://ecwu.github.io/dms-archive/posts/%E6%B8%B8%E6%88%8F%E5%AE%9E%E5%86%B5%E7%AC%AC%E4%B8%80%E6%9C%9F-gang-beasts%E8%93%9D%E7%8C%AB%E7%89%B9%E5%88%AB%E5%BC%BA/</link>
+      <pubDate>Sat, 13 Aug 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/posts/%E6%B8%B8%E6%88%8F%E5%AE%9E%E5%86%B5%E7%AC%AC%E4%B8%80%E6%9C%9F-gang-beasts%E8%93%9D%E7%8C%AB%E7%89%B9%E5%88%AB%E5%BC%BA/</guid>
+      <description>&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=5788844&amp;cid=9398278&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>萧晓彤同学毕业典礼讲话</title>
+      <link>https://ecwu.github.io/dms-archive/posts/%E8%90%A7%E6%99%93%E5%BD%A4%E5%90%8C%E5%AD%A6%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E8%AE%B2%E8%AF%9D/</link>
+      <pubDate>Fri, 05 Aug 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/posts/%E8%90%A7%E6%99%93%E5%BD%A4%E5%90%8C%E5%AD%A6%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E8%AE%B2%E8%AF%9D/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;萧晓彤同学毕业典礼讲话
+原文地址： &lt;a href=&#34;https://mp.weixin.qq.com/s/Pmd9AEz4YQ2YsAw96QYGNA&#34;&gt;https://mp.weixin.qq.com/s/Pmd9AEz4YQ2YsAw96QYGNA&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;早晨花青素的蓝，幻化为暮时的紫。
+走出校门，人生亦会多舛。
+也许我们的未来会像数学卷那般无情。
+会像两个空十二分的生物卷那样多变。
+但再看一眼我们身旁可爱的同学；
+可敬的老师们。
+再在心中默念一遍：
+明德 崇志 笃学 敦行
+我们的羁绊与信念将如英语作文&amp;rdquo;李华的信&amp;rdquo;那般亘古不变。
+今天的人生五十五，明天就为六十一而战。
+脑中装满智慧，心中充满感恩。
+我们铁中学子必定能收获满分的人生答卷。&lt;/p&gt;
+
+&lt;p&gt;铁中铮铮，一众佼佼。&lt;/p&gt;
+
+&lt;iframe frameborder=&#34;0&#34; src=&#34;https://v.qq.com/txp/iframe/player.html?vid=b03184co56t&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>赵雄玉老师毕业典礼致辞</title>
+      <link>https://ecwu.github.io/dms-archive/posts/%E8%B5%B5%E9%9B%84%E7%8E%89%E8%80%81%E5%B8%88%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E8%87%B4%E8%BE%9E/</link>
+      <pubDate>Sun, 31 Jul 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/posts/%E8%B5%B5%E9%9B%84%E7%8E%89%E8%80%81%E5%B8%88%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E8%87%B4%E8%BE%9E/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;赵雄玉老师毕业典礼致辞
+原文地址： &lt;a href=&#34;https://mp.weixin.qq.com/s/W32aICbfJ16gMynVH4JzPA&#34;&gt;https://mp.weixin.qq.com/s/W32aICbfJ16gMynVH4JzPA&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;iframe frameborder=&#34;0&#34; src=&#34;https://v.qq.com/txp/iframe/player.html?vid=e03177ig4ap&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;赵雄玉老师在毕业礼上满怀深情地发言温暖了每一位毕业生的心，而我们牢记在心的是您的叮嘱：&lt;/p&gt;
+
+&lt;p&gt;入学初识门庭，
+毕业非同学成。
+涉世或始今日，
+立身却在生平。&lt;/p&gt;
+
+&lt;p&gt;赵老师，谢谢您。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>程龙兵老师百日冲刺寄语（附兵哥帅照）</title>
+      <link>https://ecwu.github.io/dms-archive/posts/%E7%A8%8B%E9%BE%99%E5%85%B5%E8%80%81%E5%B8%88%E7%99%BE%E6%97%A5%E5%86%B2%E5%88%BA%E5%AF%84%E8%AF%AD%E9%99%84%E5%85%B5%E5%93%A5%E5%B8%85%E7%85%A7/</link>
+      <pubDate>Wed, 27 Jul 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/posts/%E7%A8%8B%E9%BE%99%E5%85%B5%E8%80%81%E5%B8%88%E7%99%BE%E6%97%A5%E5%86%B2%E5%88%BA%E5%AF%84%E8%AF%AD%E9%99%84%E5%85%B5%E5%93%A5%E5%B8%85%E7%85%A7/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;程龙兵老师百日冲刺寄语
+原文地址： &lt;a href=&#34;https://mp.weixin.qq.com/s/BdFYHTH_h-Qr8_VCF5h-XQ&#34;&gt;https://mp.weixin.qq.com/s/BdFYHTH_h-Qr8_VCF5h-XQ&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;iframe frameborder=&#34;0&#34; src=&#34;https://v.qq.com/txp/iframe/player.html?vid=s0316q9tbef&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BGM | Hi-Finesse，震撼亦可感染人心</title>
+      <link>https://ecwu.github.io/dms-archive/posts/bgm-hi-finesse%E9%9C%87%E6%92%BC%E4%BA%A6%E5%8F%AF%E6%84%9F%E6%9F%93%E4%BA%BA%E5%BF%83/</link>
+      <pubDate>Sun, 24 Jul 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/posts/bgm-hi-finesse%E9%9C%87%E6%92%BC%E4%BA%A6%E5%8F%AF%E6%84%9F%E6%9F%93%E4%BA%BA%E5%BF%83/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;原文地址：&lt;a href=&#34;https://mp.weixin.qq.com/s/l6ouf8zBDKvjqvWrC-Tikg&#34;&gt;https://mp.weixin.qq.com/s/l6ouf8zBDKvjqvWrC-Tikg&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;音乐，作为世界上人类最早的共同语言，在宗教、民族、政治、娱乐和艺术领域都有举足轻重的影响，而在传媒的领域也不例外。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;BGM(Back Ground Music)，即我们所说的”背景音乐”，于大小电影,动漫等影视作品中有着不可忽视的作用，与视觉体验相辅相成。
+优秀的配乐使影像所蕴含的思想更生动地表达，它与台词旁白不同，追求的是感觉的氛围化，形成”场”，使观众陷入作者设计的情感中，获得第一人称的思想审美。&lt;/p&gt;
+
+&lt;p&gt;非常遗憾地，我们暂时还没有独立制作优秀音乐的能力，但用心地选择优质的，与内容搭配，能极致表达视频中心情感的优秀配乐是我们不易的原则。同时，我们也十分乐意将它们分享给您。
+不知大家是否还记得我们制作的2016年广州市铁一中学亚运城校区第三届体育节的动员宣传片”Transcend”，在正片放出后，收获了近万的点击量与若干次转发。这次制作的成功，除了得益于我们的首席配音师的出色表现外，也有背景音乐的一份功劳。在此视频中，我们选用了Hi-Finesse公司Adagios专辑中的Visionary曲目。&lt;/p&gt;
+
+&lt;p&gt;因版权问题不能直接提供试听，可以到网易云音乐中欣赏
+地址：&lt;a href=&#34;http://music.163.com/#/m/song?id=29819839&#34;&gt;http://music.163.com/#/m/song?id=29819839&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hi-Finesse 是一家位于加利福尼亚的音乐制作公司，他们致力于将最新鲜的音乐带到电子游戏电影工业中。到目前，Hi-Finesse 已经参与了数百个项目的制作，其中更不乏大作如《复仇者联盟》、《蝙蝠侠》、《钢铁侠3》。&lt;/p&gt;
+
+&lt;p&gt;在制作Transcend过程中，选择背景音乐时，Visionary一曲吸引了我们的耳朵，它以它叙述性的旋律，层层叠进的节奏和低沉稳重而不失变换的音色完美切中了体育节动员宣传的呼号效果的需求，其中几次的小高潮便于我们将国际奥林匹克运动精神:”更高，更快，更强”融入激情澎湃旁白中，起到撼动人心的效果。曲终处高潮一句推进，无衰减之势，以数次强重音结尾，视听盛宴后给观众留下的，是久久不能平复的对校体育节即将来临的期待与兴奋。 看到这里，你可以带着对这首优秀配乐的新理解，再此欣赏一次这份制作。&lt;/p&gt;
+
+&lt;p&gt;视频：Transcend(2015)
+作为电子音乐制作的享名内外的大公司，Hi-Finesse的众多曲目都颇具震撼力和感染力。无独有偶，我们在2016年6月热映院线混剪中也使用了他们的曲目—–Alpha.&lt;/p&gt;
+
+&lt;p&gt;因版权问题不能直接提供试听，可以到网易云音乐中欣赏
+地址：&lt;a href=&#34;http://music.163.com/#/m/song?id=32619922&#34;&gt;http://music.163.com/#/m/song?id=32619922&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;背景音乐并非视频的附属物，恰恰相反，视觉频影像是视频的躯体，背景音乐则不失为其魂魄，希望在日后大家在欣赏绚丽多彩的画面同时，也更多的去感受作者精心选用的配乐，所谓视听盛宴，正是如此。
+此后我们还会为大家带来更多不同风格的音乐推荐，敬请期待。
+提示：以上提到的所有音乐，暂时只有网易云音乐提供试听和下载，如有不便，敬请谅解。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016 年 7 月热映院线混剪</title>
+      <link>https://ecwu.github.io/dms-archive/posts/2016-%E5%B9%B4-7-%E6%9C%88%E7%83%AD%E6%98%A0%E9%99%A2%E7%BA%BF%E6%B7%B7%E5%89%AA/</link>
+      <pubDate>Sat, 23 Jul 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/posts/2016-%E5%B9%B4-7-%E6%9C%88%E7%83%AD%E6%98%A0%E9%99%A2%E7%BA%BF%E6%B7%B7%E5%89%AA/</guid>
+      <description>&lt;p&gt;七月热映电影混剪&lt;/p&gt;
+
+&lt;p&gt;混剪的八部电影分别是（排名不分先后）：&lt;/p&gt;
+
+&lt;p&gt;泰山传奇（The Legend of Tarzan）
+2016年7月19日在国内上映。&lt;/p&gt;
+
+&lt;p&gt;捉鬼敢死队（Ghostbusters）
+2016年7月15日在美国上映，大陆地区未上映。&lt;/p&gt;
+
+&lt;p&gt;大鱼海棠（Da Hai aka “Big Fish &amp;amp; Begonia”）
+2016年7月8日在国内上映。&lt;/p&gt;
+
+&lt;p&gt;绝地逃亡（Skiptrace）
+2016年7月21日在国内上映。&lt;/p&gt;
+
+&lt;p&gt;慕色拉行动（The Infiltrator）
+2016年7月13日在美国上映，大陆地区未上映。&lt;/p&gt;
+
+&lt;p&gt;星际迷航3：超越星辰（Star Trek Beyond）
+2016年7月22日在美国上映，大陆地区将在2016年9月2日上映。&lt;/p&gt;
+
+&lt;p&gt;谍影重重5（Jason Bourne）
+2016年7月18日在美国上映，大陆地区将在2016年8月23日上映。&lt;/p&gt;
+
+&lt;p&gt;忍者神龟2：破影而出（Teenage Mutant Ninja Turtles: Out of the Shadows）
+2016年7月2日在国内上映。&lt;/p&gt;
+
+&lt;p&gt;七月份在国内上映的电影还有：&lt;/p&gt;
+
+&lt;p&gt;赏金猎人&lt;/p&gt;
+
+&lt;p&gt;魔轮&lt;/p&gt;
+
+&lt;p&gt;终极胜利&lt;/p&gt;
+
+&lt;p&gt;寒战2&lt;/p&gt;
+
+&lt;p&gt;大鱼海棠&lt;/p&gt;
+
+&lt;p&gt;摇滚藏獒&lt;/p&gt;
+
+&lt;p&gt;致青春·原来你还在这里&lt;/p&gt;
+
+&lt;p&gt;快手枪手快枪手&lt;/p&gt;
+
+&lt;p&gt;惊天大逆转&lt;/p&gt;
+
+&lt;p&gt;陆垚知马俐&lt;/p&gt;
+
+&lt;p&gt;路边野餐&lt;/p&gt;
+
+&lt;p&gt;绝地逃亡&lt;/p&gt;
+
+&lt;p&gt;天亮之前&lt;/p&gt;
+
+&lt;p&gt;泡沫之夏&lt;/p&gt;
+
+&lt;p&gt;饭宝奇兵&lt;/p&gt;
+
+&lt;p&gt;封神传奇&lt;/p&gt;
+
+&lt;p&gt;六弄咖啡馆&lt;/p&gt;
+
+&lt;p&gt;平安岛&lt;/p&gt;
+
+&lt;p&gt;忍者神龟2：破影而出&lt;/p&gt;
+
+&lt;p&gt;泰山归来：险战丛林&lt;/p&gt;
+
+&lt;p&gt;巴霍巴利王：开端&lt;/p&gt;
+
+&lt;p&gt;超能太阳鸭&lt;/p&gt;
+
+&lt;p&gt;红色警戒999&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;（列表可能不完整）数据来自IMDb&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=5456355&amp;cid=8866825&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+
+&lt;iframe height=498 width=510 src=&#39;http://player.youku.com/embed/XMTY1NTAyMzY4NA==&#39; frameborder=0 &#39;allowfullscreen&#39;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Snapseed | 给你的照片第二次生命</title>
+      <link>https://ecwu.github.io/dms-archive/posts/snapseed-%E7%BB%99%E4%BD%A0%E7%9A%84%E7%85%A7%E7%89%87%E7%AC%AC%E4%BA%8C%E6%AC%A1%E7%94%9F%E5%91%BD/</link>
+      <pubDate>Thu, 21 Jul 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/posts/snapseed-%E7%BB%99%E4%BD%A0%E7%9A%84%E7%85%A7%E7%89%87%E7%AC%AC%E4%BA%8C%E6%AC%A1%E7%94%9F%E5%91%BD/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;原文地址：&lt;a href=&#34;https://mp.weixin.qq.com/s/dB9Gx8DiNHS1CP8VsssBuw&#34;&gt;https://mp.weixin.qq.com/s/dB9Gx8DiNHS1CP8VsssBuw&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;为什么自己拍不出Instagram上网红们拍出的照片？其实炫酷照片的真正秘密并不完全在前期的拍摄上，后期的处理也一样重要。今天我们就为各位推荐一款优秀的图片处理软件，Snapseed。&lt;/p&gt;
+
+&lt;p&gt;Snapseed 是由 Google 开发的一款多功能图片处理软件(Photo-editing Application)。经过多年的迭代，如今 Snapseed 的功能也变得愈加强大。今天我们就以一张照片的处理过程为实例，看看如何用Snapseed将这张照片处理得更加赏心悦目。&lt;/p&gt;
+
+&lt;p&gt;Snapseed 软件内支持在相册中选取照片或直接拍照。我们选用了一张我们在都江堰拍摄的照片。&lt;/p&gt;
+
+&lt;p&gt;先对照片进行分析：&lt;/p&gt;
+
+&lt;p&gt;照片构图略微倾斜,地平线并不水平&lt;/p&gt;
+
+&lt;p&gt;图片阴影部分欠曝&lt;/p&gt;
+
+&lt;p&gt;色调偏冷偏绿，饱和度偏低&lt;/p&gt;
+
+&lt;p&gt;没有视觉中心。&lt;/p&gt;
+
+&lt;p&gt;TIPS:分析你的照片可以有效地找到图片的问题，优化处理时的步骤。&lt;/p&gt;
+
+&lt;p&gt;我们现在 Snapseed 中打开了这张图片，你可以看到界面上出现了9种工具和12种滤镜。工具有助于完善图片；滤镜则可用来添加不同的风格效果。大家可以自己尝试不同工具和滤镜的组合，来实现自己想要的效果。&lt;/p&gt;
+
+&lt;p&gt;我们先选择旋转工具，来矫正构图倾斜的问题，直接在图像上左右滑动就可以进行调整，页面上也会出现网格来辅助。你可以直接点击下方的“翻转”和“向右旋转”按钮进行镜像翻转或向右90°旋转操作。调整完成后，按右下角的“√”就可以保存这一步操作。&lt;/p&gt;
+
+&lt;p&gt;然后我们选择调整图片工具，这个工具包含多个可调整选项，你可以通过上下滑动屏幕来切换，调整依然是通过左右滑动来调整。我们用这个工具调整亮度和对比度来达到正常的曝光，调整饱和度、暖色调、阴影来调整色调和提升暗部细节。&lt;/p&gt;
+
+&lt;p&gt;经过调整后画面的饱和度得到提升，画面更加吸引眼球。&lt;/p&gt;
+
+&lt;p&gt;另外，垂直滑动的编辑菜单包括如下部分：&lt;/p&gt;
+
+&lt;p&gt;亮度：调暗或调亮整张图片。
+对比度：提高或降低图片的整体对比度。
+饱和度：添加或消除图片中的色彩鲜明度。
+环境：对比度扭曲，调整整张图片的光平衡。
+阴影：仅调暗或调亮图片中的阴影部分。
+高光：仅调暗或调亮图片中的高光部分。
+色温：向整张图片中添加暖色或冷色色偏。&lt;/p&gt;
+
+&lt;p&gt;然后我们选择突出细节工具，来突出树木叶子和建筑的细节。&lt;/p&gt;
+
+&lt;p&gt;下面就是最重要的部分，Snapseed 除了拥有最常用的的功能以外，还提供了非常强大的局部调整功能，工具中的局部、修复和画笔功能都可以进行局部调整。&lt;/p&gt;
+
+&lt;p&gt;在户外光线等多种重要因素是不可控的，正如我们在拍摄这张照片时不巧遇上了阴天，天空污沉沉地，加上雨季泥石冲刷，河流显得黯淡污浊。&lt;/p&gt;
+
+&lt;p&gt;我们现在就要用画笔功能降低河水的色温来制造一个视觉中心。&lt;/p&gt;
+
+&lt;p&gt;在画笔工具中，我们选择特效中的色温，调整效果至-10色温，然后在想要降低色温的地方涂抹。放大以后进行细微的操作，可以使得效果更好。已经涂抹的区域可以点击右下角的小眼睛(遮罩按钮)来显示。&lt;/p&gt;
+
+&lt;p&gt;处理后的江水变得更加清澈碧绿，为画面提供了一个视觉中心。&lt;/p&gt;
+
+&lt;p&gt;最后，我们再选择局部工具选择天空的部分，调整天空的饱和度。被选择的范围会被红色覆盖。（通过缩放动作可以调整选取范围）&lt;/p&gt;
+
+&lt;p&gt;调整完成后点击保存，一张漂亮的照片就做好了！&lt;/p&gt;
+
+&lt;p&gt;Snapseed 目前提供了 iOS 和 Android 的两个版本，软件在两个平台的应用市场都能下载并使用。（目前测试过的有 iOS 的 App Store；安卓的酷市场、豌豆荚）&lt;/p&gt;
+
+&lt;p&gt;小结&lt;/p&gt;
+
+&lt;p&gt;软件名称：Snapseed&lt;/p&gt;
+
+&lt;p&gt;开发公司：Google Inc.&lt;/p&gt;
+
+&lt;p&gt;价格：免费，无内购。&lt;/p&gt;
+
+&lt;p&gt;推荐指数：★★★★☆&lt;/p&gt;
+
+&lt;p&gt;特点：&lt;/p&gt;
+
+&lt;p&gt;操作简单，界面友好
+可以快速回到任意一步操作
+强大的局部调整功能
+功能丰富的滤镜
+参考资料：&lt;/p&gt;
+
+&lt;p&gt;Snapseed 帮助 - Google &lt;a href=&#34;https://support.google.com/snapseed&#34;&gt;https://support.google.com/snapseed&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Snapseed - Wikipedia &lt;a href=&#34;https://en.wikipedia.org/wiki/Snapseed&#34;&gt;https://en.wikipedia.org/wiki/Snapseed&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Nik Software - Wikipedia &lt;a href=&#34;https://en.wikipedia.org/wiki/Nik_Software&#34;&gt;https://en.wikipedia.org/wiki/Nik_Software&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>抱歉！我们来晚了。</title>
+      <link>https://ecwu.github.io/dms-archive/posts/%E6%8A%B1%E6%AD%89%E6%88%91%E4%BB%AC%E6%9D%A5%E6%99%9A%E4%BA%86/</link>
+      <pubDate>Wed, 20 Jul 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/posts/%E6%8A%B1%E6%AD%89%E6%88%91%E4%BB%AC%E6%9D%A5%E6%99%9A%E4%BA%86/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;抱歉！我们来晚了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;今天&lt;strong&gt;DMS&lt;/strong&gt;道标工作室终于开通了微信公众号，在以后的日子里，我们的最新视频、预告、图片和动态都会通过公众号推送给大家。我们也会不定时的发布一些教学贴，给想要学习技术的你提供一些帮助。&lt;/p&gt;
+
+&lt;p&gt;开通公众号是&lt;code&gt;DMS Reboot&lt;/code&gt;计划的第二步。在这个计划中，我们设计了：&lt;/p&gt;
+
+&lt;p&gt;新栏目的开通（已开设&lt;strong&gt;《热映混剪》&lt;/strong&gt;栏目，更多栏目敬请期待）
+微信公众号的开通（已完成）
+&lt;strong&gt;DMS&lt;/strong&gt;官方网站的建设（正在进行）
+发布更多的新视频（有多部视频正在路上）
+在公众号里我们已经加入了一些有趣的内容，欢迎大家来探索。如果你对公众号有任何的意见和建议，欢迎直接在公众号中留言；你也可以通过邮件与我们取得进一步的联系，具体方式参见联系我们页面。&lt;/p&gt;
+
+&lt;p&gt;为了给大家提供更多有趣的内容，欢迎大家参加我们的投票（支持多选）。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;虽然我们来晚了，但我们总算来了。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016 年 6 月热映院线混剪</title>
+      <link>https://ecwu.github.io/dms-archive/posts/2016-%E5%B9%B4-6-%E6%9C%88%E7%83%AD%E6%98%A0%E9%99%A2%E7%BA%BF%E6%B7%B7%E5%89%AA/</link>
+      <pubDate>Sun, 26 Jun 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/posts/2016-%E5%B9%B4-6-%E6%9C%88%E7%83%AD%E6%98%A0%E9%99%A2%E7%BA%BF%E6%B7%B7%E5%89%AA/</guid>
+      <description>&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=5102444&amp;cid=8289015&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+
+&lt;iframe height=498 width=510 src=&#39;http://player.youku.com/embed/XMTYyMTQyNjMyMA==&#39; frameborder=0 &#39;allowfullscreen&#39;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>谨献给 2015DMS 的全体成员</title>
+      <link>https://ecwu.github.io/dms-archive/posts/%E8%B0%A8%E7%8C%AE%E7%BB%99-2015dms-%E7%9A%84%E5%85%A8%E4%BD%93%E6%88%90%E5%91%98/</link>
+      <pubDate>Sun, 07 Feb 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/posts/%E8%B0%A8%E7%8C%AE%E7%BB%99-2015dms-%E7%9A%84%E5%85%A8%E4%BD%93%E6%88%90%E5%91%98/</guid>
+      <description>&lt;iframe height=498 width=510 src=&#39;http://player.youku.com/embed/XMTQ2NzQyMzQ2MA==&#39; frameborder=0 &#39;allowfullscreen&#39;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2015 of DMS</title>
+      <link>https://ecwu.github.io/dms-archive/posts/2015-of-dms/</link>
+      <pubDate>Sat, 06 Feb 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/posts/2015-of-dms/</guid>
+      <description>&lt;iframe height=498 width=510 src=&#39;http://player.youku.com/embed/XMTQ2NjUxNzA4OA==&#39; frameborder=0 &#39;allowfullscreen&#39;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>体育节快速回顾 2.0</title>
+      <link>https://ecwu.github.io/dms-archive/posts/%E4%BD%93%E8%82%B2%E8%8A%82%E5%BF%AB%E9%80%9F%E5%9B%9E%E9%A1%BE-2.0/</link>
+      <pubDate>Fri, 05 Feb 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/posts/%E4%BD%93%E8%82%B2%E8%8A%82%E5%BF%AB%E9%80%9F%E5%9B%9E%E9%A1%BE-2.0/</guid>
+      <description>&lt;iframe height=498 width=510 src=&#39;http://player.youku.com/embed/XMTQ2NTcxOTAxNg==&#39; frameborder=0 &#39;allowfullscreen&#39;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ChimeLong Ocean Kingdom REVIEW</title>
+      <link>https://ecwu.github.io/dms-archive/posts/chimelong-ocean-kingdom-review/</link>
+      <pubDate>Fri, 29 Jan 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/posts/chimelong-ocean-kingdom-review/</guid>
+      <description>&lt;iframe height=498 width=510 src=&#39;http://player.youku.com/embed/XMTQ1OTkxODI4OA==&#39; frameborder=0 &#39;allowfullscreen&#39;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ClassOneQuickReview</title>
+      <link>https://ecwu.github.io/dms-archive/posts/classonequickreview/</link>
+      <pubDate>Sat, 14 Nov 2015 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/posts/classonequickreview/</guid>
+      <description>&lt;iframe height=498 width=510 src=&#39;http://player.youku.com/embed/XMTM4NjMwMDc4MA==&#39; frameborder=0 &#39;allowfullscreen&#39;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ClassOneQuickReview/inphotograph</title>
+      <link>https://ecwu.github.io/dms-archive/posts/classonequickreviewinphotograph/</link>
+      <pubDate>Sat, 14 Nov 2015 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/posts/classonequickreviewinphotograph/</guid>
+      <description>&lt;iframe height=498 width=510 src=&#39;http://player.youku.com/embed/XMTM4NjMwMjAxMg==&#39; frameborder=0 &#39;allowfullscreen&#39;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transcend</title>
+      <link>https://ecwu.github.io/dms-archive/posts/transcend/</link>
+      <pubDate>Sat, 24 Oct 2015 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/posts/transcend/</guid>
+      <description>&lt;iframe height=498 width=510 src=&#39;http://player.youku.com/embed/XMTM2ODU1MzgxMg==&#39; frameborder=0 &#39;allowfullscreen&#39;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2015 届铁一中学新高一军训快速回顾</title>
+      <link>https://ecwu.github.io/dms-archive/posts/2015-%E5%B1%8A%E9%93%81%E4%B8%80%E4%B8%AD%E5%AD%A6%E6%96%B0%E9%AB%98%E4%B8%80%E5%86%9B%E8%AE%AD%E5%BF%AB%E9%80%9F%E5%9B%9E%E9%A1%BE/</link>
+      <pubDate>Sat, 29 Aug 2015 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/posts/2015-%E5%B1%8A%E9%93%81%E4%B8%80%E4%B8%AD%E5%AD%A6%E6%96%B0%E9%AB%98%E4%B8%80%E5%86%9B%E8%AE%AD%E5%BF%AB%E9%80%9F%E5%9B%9E%E9%A1%BE/</guid>
+      <description>&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=2829044&amp;cid=4418839&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+
+&lt;iframe height=498 width=510 src=&#39;http://player.youku.com/embed/XMTMyMjMyMjA1Mg==&#39; frameborder=0 &#39;allowfullscreen&#39;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Agricultural Production Learning Quick Review</title>
+      <link>https://ecwu.github.io/dms-archive/posts/agricultural-production-learning-quick-review/</link>
+      <pubDate>Sun, 05 Jul 2015 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/posts/agricultural-production-learning-quick-review/</guid>
+      <description>&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=2619029&amp;cid=4088470&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+
+&lt;iframe height=498 width=510 src=&#39;http://player.youku.com/embed/XMTI3NzM5NzYxMg==&#39; frameborder=0 &#39;allowfullscreen&#39;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Immortals 先行预告片 Class 2</title>
+      <link>https://ecwu.github.io/dms-archive/posts/immortals-%E5%85%88%E8%A1%8C%E9%A2%84%E5%91%8A%E7%89%87-class-2/</link>
+      <pubDate>Sat, 27 Jun 2015 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/posts/immortals-%E5%85%88%E8%A1%8C%E9%A2%84%E5%91%8A%E7%89%87-class-2/</guid>
+      <description>&lt;iframe height=498 width=510 src=&#39;http://player.youku.com/embed/XMTI3MjA1MzQ4NA==&#39; frameborder=0 &#39;allowfullscreen&#39;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>亚铁鬼畜计划</title>
+      <link>https://ecwu.github.io/dms-archive/posts/%E4%BA%9A%E9%93%81%E9%AC%BC%E7%95%9C%E8%AE%A1%E5%88%92/</link>
+      <pubDate>Sat, 06 Jun 2015 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/posts/%E4%BA%9A%E9%93%81%E9%AC%BC%E7%95%9C%E8%AE%A1%E5%88%92/</guid>
+      <description>&lt;iframe height=498 width=510 src=&#39;http://player.youku.com/embed/XMTI1NjQ4MzM2NA==&#39; frameborder=0 &#39;allowfullscreen&#39;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

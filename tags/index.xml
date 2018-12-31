@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Digital Marks Studio Archive</title>
+    <link>https://ecwu.github.io/dms-archive/tags/</link>
+    <description>Recent content in Tags on Digital Marks Studio Archive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+        <atom:link href="https://ecwu.github.io/dms-archive/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Video</title>
+      <link>https://ecwu.github.io/dms-archive/tags/video/</link>
+      <pubDate>Sun, 04 Jun 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/tags/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wechat</title>
+      <link>https://ecwu.github.io/dms-archive/tags/wechat/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://ecwu.github.io/dms-archive/tags/wechat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
