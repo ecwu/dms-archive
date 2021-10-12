@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
     <title>Video on Digital Marks Studio Archive</title>
     <link>https://ecwu.github.io/dms-archive/tags/video/</link>
@@ -191,7 +191,7 @@
       <guid>https://ecwu.github.io/dms-archive/posts/2016-%E5%B9%B4-6-%E6%9C%88%E7%83%AD%E6%98%A0%E9%99%A2%E7%BA%BF%E6%B7%B7%E5%89%AA/</guid>
       <description>&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=5102444&amp;cid=8289015&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
 
-&lt;iframe height=498 width=510 src=&#39;http://player.youku.com/embed/XMTYyMTQyNjMyMA==&#39; frameborder=0 &#39;allowfullscreen&#39;&gt;&lt;/iframe&gt;
+&lt;iframe height=498 width=510 src=&#39;https://player.youku.com/embed/XMTYyMTQyNjMyMA==&#39; frameborder=0 &#39;allowfullscreen&#39;&gt;&lt;/iframe&gt;
 </description>
     </item>
     
